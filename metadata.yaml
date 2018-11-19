@@ -1,0 +1,35 @@
+_repo: Les-trois-mousquetaires-Volume-2-of-2_58211
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leloir, Maurice
+    gutenberg_agent_id: '48651'
+    url: http://www.gutenberg.org/2009/agents/48651
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - père, Alexandre Dumas
+    - Dumas, Alexandre, pere
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2018-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58211'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les trois mousquetaires, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/58211
